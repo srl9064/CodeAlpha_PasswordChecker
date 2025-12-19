@@ -51,6 +51,7 @@ Based on these checks, it classifies the password strength and provides feedback
 
 ##  How to Run
 Run the program using:
+python3 password_checker.py
 
 ---
 
